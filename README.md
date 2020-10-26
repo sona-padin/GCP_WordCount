@@ -1,2 +1,2 @@
-# GCP_WordCount
-This repo is for my CS1660 assignment where I run a Hadoop MapReduce on a set of words to count the occurences of the words. 
+# CS1660 Assignment: GCP_WordCount
+Running Apache Hadoop's WordCount example on GCP to count the number of occurences in a set of words. (Incomplete) 
